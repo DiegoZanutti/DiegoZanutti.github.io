@@ -18,3 +18,10 @@ Per una lista completa e aggiornata del menù, visita il nostro [Menù Digitale]
 Siamo attenti alle esigenze di tutti i nostri clienti. Consulta la nostra lista di allergeni presente nel menù per assicurarti una scelta sicura e adatta alle tue esigenze alimentari.
 
 Ti aspettiamo al Dalle Canaglie per un'esperienza di gusto indimenticabile!
+
+## Lunedì Canaglia al Pub Dalle Canaglie
+
+Goditi il Lunedì Canaglia al Dalle Canaglie, dove la bruschetta incontra l'arte della birra. Se ordini la bruschetta che più ti piace, ci potrai abbinare una birra media a soli €3,50! È la combinazione perfetta per iniziare la settimana con gusto e leggerezza.
+
+Un'offerta imperdibile per tutti gli amanti della cucina casereccia e delle birre di qualità. Ti aspettiamo per trasformare il tuo lunedì in un giorno speciale.
+
