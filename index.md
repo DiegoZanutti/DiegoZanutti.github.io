@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div style="background-image: url('logo/80962409765e8ee728a2059.48457918.png');">
-# Pub Dalle Canaglie
+</div>
 
+# Pub Dalle Canaglie
 Benvenuti al **Dalle Canaglie**, un accogliente pub situato nel cuore di Selvazzano Dentro, dove tradizione e innovazione si incontrano per regalare un'esperienza unica. Famoso per le sue bruschette creative e birre artigianali selezionate, Dalle Canaglie è il luogo ideale per trascorrere serate in compagnia di amici e buon cibo.
 
 ## Menù
@@ -30,4 +31,3 @@ Goditi il Lunedì Canaglia al Dalle Canaglie, dove la bruschetta incontra l'arte
 
 Un'offerta imperdibile per tutti gli amanti della cucina casereccia e delle birre di qualità. Ti aspettiamo per trasformare il tuo lunedì in un giorno speciale.
 
-</div>
